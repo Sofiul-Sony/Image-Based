@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1575571631 source:c:\users\ryu\desktop\420\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+
+1576085743 source:c:\users\ryu\desktop\420\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<dos.h>
+	<iostream>
+
+1576224521 source:c:\users\sony\desktop\project\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<dos.h>
+	<iostream>
+
